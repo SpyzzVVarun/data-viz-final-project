@@ -1,6 +1,5 @@
-<h1 align = "center">India Air Quality Analysis</h1>
+<h1 align = "center">Indian Air Quality Analysis</h1>
 <p align = "center"><i>Data Visualization Report by Varun Nagpal (210150020)</i></p>
-<br><br>
 
 # Motivation
 
@@ -160,8 +159,7 @@ The high pollution levels in Delhi and low pollution levels in northeastern stat
 
 ## Let's see a choropleth view of NO2 concentrations, over time and across regions
 
-<!-- <iframe width="560" height="315" src="plots/choropleth_NO2.mp4" frameborder="0" allowfullscreen></iframe> -->
-
+https://github.com/SpyzzVVarun/data-viz-final-project/assets/95134445/d3f165bb-8cda-4063-90fc-4340bede0891
 
 ## How often do levels of each pollutant exceed national health standards and how widespread is this? (Thresholds determined on the basis of National Ambient Air Quality Standards (NAAQS))
 
