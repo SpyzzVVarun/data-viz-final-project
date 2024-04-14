@@ -27,6 +27,8 @@ The data was compiled from the CPCB website, which serves as the official body o
 
 ## Data Cleaning & Processing
 
+Initially we had hourly data from 450 Air Quality Monitoring stations across India. The dataset had 100+ features covering various air quality metrics and pollutant measurements. The data was also filled with missing values. We went through the data and finally selected the most influential pollutants based on some literature survey and also converted the data to daywise by averaging. We also created a single clean dataset by merging the data from all stations. The codes for data processing can be found in **data.ipynb** and **clean_data.ipynb**
+
 ## Data Description
 
 The dataset contains air quality data for Indian cities from the year 2010 to 2023. This dataset is valuable for understanding and analyzing the air quality trends and patterns in Indian cities over a span of 13 years. 
