@@ -61,8 +61,7 @@ To assess the distribution of each air pollutant in our dataset, two types of vi
 ### Histograms
 For each pollutant, a histogram was generated to visualize its frequency distribution across the dataset. These histograms are crucial as they show the spread and skewness of data points around the mean. To provide context regarding environmental standards, a vertical line representing the NAAQS threshold for each pollutant was included in the corresponding histogram. This demarcation helps in quickly identifying the proportion of observations that exceed the acceptable limits set by regulatory bodies.
 
-<img src = "plots/SO2_histogram.png" height = 400 width = 500 bgcolor = "white">
-<img src = "plots/PM2_histogram.png" height = 400 width = 500>
+<img src = "plots/SO2_histogram.png" height = 400 width = 500> <img src = "plots/PM2_histogram.png" height = 400 width = 500>
 
 * More plots available in code notebook
 
