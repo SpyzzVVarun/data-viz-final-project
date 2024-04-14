@@ -159,7 +159,7 @@ The high pollution levels in Delhi and low pollution levels in northeastern stat
 
 A boxplot with faceting is ideal for visualizing pollutant distributions across the top polluted states/UTs because it allows for easy comparison between regions, handles outliers well, represents skewed data effectively, and facilitates pattern recognition in a compact and informative manner.
 
-<img src = "plots/top_6_poll.png" height = 500 width = 600> 
+<img src = "plots/top_6_poll.png" height = 500 width = 900> 
 
 
 # Spatio-Temporal Trends
