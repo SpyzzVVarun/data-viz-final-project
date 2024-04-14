@@ -45,7 +45,7 @@ The number of Air Quality Monitoring Stations covered in my data is 450 and the 
 
 Here we have used the map of India along with the latitude and longitude information of the station locations to plot the location markers. The latitude and longitude information was extracted using Nominatim API 
 
-<img src = "plots/Agency_Data.png" height = 500 width = 500>
+<img src = "plots/Agency_Data.PNG" height = 500 width = 500>
 
 The map clearly illustrates the extensive coverage of monitoring stations across India, effectively encompassing most regions except for certain areas in the extreme North and the South-East.
 
@@ -123,7 +123,7 @@ The increasing trend of NO2 concentrations yearwise is primarily driven by facto
 
 Monthwise lineplots are effective for analyzing how pollution levels vary by season because they provide a clear visualization of pollutant concentrations over the course of the year. They help us see Seasonal patterns and do comparative analysis.
 
-<img src = "plots/SO2_season.png" height = 400 width = 500> <img src = "plots/Pollution_season.png" height = 400 width = 500>
+<img src = "plots/SO2_season.png" height = 400 width = 500> <img src = "plots/Pollution_Season.png" height = 400 width = 500>
 
  Peaks observed in March-April and October-November in India are likely due to factors like crop residue burning, weather conditions, and increased industrial activity during those periods. The October-November peaks can also be explained by the Diwali season.
 
