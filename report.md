@@ -42,7 +42,7 @@ The main pollutants we are covering are:
 
 We also consider the effects of Air Temperature and Relative Humidity
 
-# Agency Data
+# Air Quality Monitoring Stations
 
 The number of Air Quality Monitoring Stations covered in my data is 450 and the data ranges from 2010 to 2022 (with some data till March 2023)
 
