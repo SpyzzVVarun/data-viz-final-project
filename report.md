@@ -155,6 +155,9 @@ The high pollution levels in Delhi and low pollution levels in northeastern stat
 
 5. **Government Policies and Initiatives:** Delhi has been grappling with air pollution for several years, leading to the implementation of various government policies and initiatives aimed at reducing pollution levels, such as the introduction of vehicle emission standards, restrictions on industrial activities, and measures to curb crop residue burning. In contrast, the northeastern states may have stricter environmental regulations and better enforcement mechanisms, contributing to lower pollution levels.
 
+## Pollutant Distribution for the Top 6 Polluted States/UTs 
+
+<img src = "plots/top_6_poll.png" height = 500 width = 600> 
 
 # Spatio-Temporal Trends
 
