@@ -183,7 +183,7 @@ Lets look at some barplots for Nitric Oxide to help us answer this question.
 The increasing trend indicates a rise in pollutant concentrations over time and across various regions, signaling worsening air quality conditions. This trend suggests growing emissions from various sources, such as industrial activities, vehicular traffic, and combustion processes. It highlights the need for immediate action to mitigate pollution, safeguard public health, and protect the environment.
 
 
-## Some Observations
+# Possible Policy or Situational Effect
 
 Certain cities like Delhi which have suffered due to Air Pollution for a long time have implemented various policies to curb air pollution
 We can see here that mean PM2.5 concentration had been steadily decreasing for Delhi over the years, especially going into the lockdown period. Although we do see an increasing trend again post COVID.
