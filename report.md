@@ -1,4 +1,6 @@
-# Air Pollutants
+<h1 align = "center">India Air Quality Analysis</h1>
+<p align = "center"><i>Data Visualization Report by Varun Nagpal (210150020)</i></p>
+<br><br>
 
 # Motivation
 
